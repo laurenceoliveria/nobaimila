@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaeshowiot.naradi-bosch.com/sitemap.xml
